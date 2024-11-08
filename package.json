@@ -47,7 +47,7 @@
     "postinstall": "husky install"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.3.0",
+    "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^17.3.0",
     "@semantic-release/changelog": "^6.0.2",
     "@semantic-release/git": "^10.0.1",
@@ -56,7 +56,7 @@
     "@vuepress/plugin-docsearch": "^2.0.0-beta.60",
     "@vuepress/plugin-pwa": "next",
     "check-md": "^1.0.2",
-    "commitlint": "^17.3.0",
+    "commitlint": "^19.5.0",
     "cspell": "^6.18.1",
     "husky": "^8.0.3",
     "lint-staged": "^13.1.0",
