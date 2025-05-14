@@ -59,7 +59,7 @@
     "commitlint": "^17.3.0",
     "cspell": "^6.18.1",
     "husky": "^8.0.3",
-    "lint-staged": "^13.1.0",
+    "lint-staged": "^16.0.0",
     "markdownlint": "^0.27.0",
     "markdownlint-cli": "^0.32.2",
     "prettier": "^2.8.1",
